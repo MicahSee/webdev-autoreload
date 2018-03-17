@@ -6,3 +6,7 @@ To execute the script use the following command structure:
 python autoreload.py url_to_reload directory_to_observe
 
 Ex: python autoreload.py http://127.0.0.1 /var/www
+
+Required Modules:
+-Selenium with Firefox Webdriver (Chrome support will be added in the future)
+-Watchdog
